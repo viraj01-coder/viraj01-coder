@@ -26,17 +26,9 @@
 
 ## 🚀 Projects
 
-### 🚗 Used Car Price Predictor
-- ML model using Polynomial Ridge Regression
-- Trained on 17,963 cars dataset
-- R² Score: 75.6%
-- 🔗 [Live Demo](https://car-prediction-pdxuptpde2vmplq6rc7t6q.streamlit.app)
-- 📂 [GitHub Repo](https://github.com/viraj01-coder/car-prediction)
 
-### 🚀 SpaceX Launch Prediction
-- Predicted rocket landing success using ML
-- Used SQL, EDA, Folium Maps, Dash Dashboard
-- 📂 [GitHub Repo](https://github.com/viraj01-coder/data-science-capstone)
+
+
 
 ---
 
@@ -45,4 +37,4 @@
 
 ---
 
-⭐ **IBM Data Science Professional Certificate — Coursera**
+
