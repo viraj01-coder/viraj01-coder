@@ -4,6 +4,7 @@
 ---
 
 ## About Me
+
 - 🔭 Currently building Machine Learning projects
 - 🌱 Learning Data Science & Python
 - 💡 Passionate about turning data into insights
@@ -27,6 +28,35 @@
 ---
 
 ## 🚀 Projects
+
+### 🚗 Used Car Price Predictor
+> End-to-end Machine Learning project predicting used car prices using Ridge Regression | IBM Data Science Capstone
+
+| | |
+|---|---|
+| **Tech Stack** | Python, Pandas, NumPy, Plotly Express, scikit-learn, Streamlit |
+| **Concepts** | EDA, Data Cleaning, Feature Engineering, Ridge Regression, Polynomial Features, GridSearchCV |
+| **Dataset** | ~18,000 cars (UK Used Car Market) |
+| **Model R²** | 0.756 (75.6% accuracy) |
+
+**What I did:**
+- 🔹 Performed Data Cleaning & identified top 5 features correlated with price
+- 🔹 Trained Polynomial Ridge Regression model (degree=2) with StandardScaler pipeline
+- 🔹 Used GridSearchCV with 4-fold cross-validation to find optimal alpha = 100
+- 🔹 Built interactive Streamlit app with real-time price prediction
+- 🔹 Added multi-currency support (GBP, USD, EUR, INR) and 4 dynamic Plotly charts
+
+**Key Insights Uncovered:**
+- 📌 Year of manufacture is the strongest price predictor (correlation: 0.636)
+- 📌 Higher mileage significantly reduces car value (correlation: 0.531)
+- 📌 Larger engine size correlates with higher price (correlation: 0.411)
+- 📌 Polynomial features improved R² from ~0.68 to 0.756 vs simple Ridge Regression
+- 📌 Petrol cars dominate the dataset (12,179) vs Diesel (5,762)
+
+[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://your-app-link-here.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/viraj01-coder/used-car-price-predictor)
+
+---
 
 ### 📊 Superstore Sales Analysis Dashboard
 > End-to-end data analytics project on the Tableau Sample Superstore dataset (9,994 records | US Retail 2014–2017)
