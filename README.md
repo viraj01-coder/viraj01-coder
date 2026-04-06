@@ -25,10 +25,40 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-052FAD?style=flat&logo=ibm&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=flat&logo=scipy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
 ## 🚀 Projects
+
+### 🏏 IPL Performance Analytics (2008-2024)
+> Advanced Data Science & ML app analyzing IPL historical data and predicting player performance using Random Forest
+
+| | |
+|---|---|
+| **Tech Stack** | Python, Pandas, NumPy, Plotly, SQL (SQLite), scikit-learn, Streamlit |
+| **Concepts** | EDA, SQL Querying, Feature Engineering, Random Forest Classification, Predictive Modeling |
+| **Dataset** | Kaggle — IPL Complete Dataset 2008-2024 |
+| **Model** | RandomForestClassifier (200 estimators) |
+
+**What I did:**
+- 🔹 Built SQL (SQLite) database to handle and query large-scale IPL match data
+- 🔹 Engineered features — Strike Rate, Season Average, Opponent-specific records
+- 🔹 Trained Random Forest Classifier to predict probability of batsman scoring 30+ runs
+- 🔹 Built interactive player dashboard with career stats, performance metrics and dynamic charts
+- 🔹 Deployed live Streamlit app with complete 2008-2024 IPL player database
+
+**Key Features:**
+- 📌 Predicts 30+ run probability with percentage-based confidence score
+- 📌 Fallback logic — uses career average when opponent-specific data unavailable
+- 📌 Top 10 Run Scorers, Avg Runs vs Each Team, and 30+ Scores Count charts
+- 📌 Covers 16 years of IPL data (2008–2024)
+
+[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ipl-performance-analytics-sfbhakzbyf2hdspvmetmva.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/viraj01-coder/ipl-performance-analytics)
+
+---
 
 ### 🚗 Used Car Price Predictor
 > End-to-end Machine Learning project predicting used car prices using Ridge Regression | IBM Data Science Capstone
