@@ -112,7 +112,7 @@
 - 📌 West region outperforms all other regions
 - 📌 Sales grew 51% from 2014 to 2017 ($484K → $733K)
 
-[![Live App](https://superstoredataanalytics-daar8sszaksqvhwh25jiuk.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://superstoredataanalytics-daar8sszaksqvhwh25jiuk.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/viraj01-coder/superstore_data_analytics)
 
 ---
