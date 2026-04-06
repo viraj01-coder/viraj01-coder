@@ -84,7 +84,7 @@
 - 📌 Polynomial features improved R² from ~0.68 to 0.756 vs simple Ridge Regression
 - 📌 Petrol cars dominate the dataset (12,179) vs Diesel (5,762)
 
-[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://your-app-link-here.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://used-car-price-predictor-6g2wersaihrvzufyy7xjne.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/viraj01-coder/used-car-price-predictor)
 
 ---
