@@ -27,10 +27,42 @@
 ![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=flat&logo=scipy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat&logo=python&logoColor=white)
+![TF--IDF](https://img.shields.io/badge/TF--IDF-8B0000?style=flat&logo=python&logoColor=white)
 
 ---
 
 ## 🚀 Projects
+
+### 🎬 Movie Review Sentiment Analyzer
+> End-to-end NLP project classifying movie reviews as positive or negative using Machine Learning
+
+| | |
+|---|---|
+| **Tech Stack** | Python, Pandas, NLTK, scikit-learn, SQLite, Matplotlib, Streamlit |
+| **Concepts** | NLP, Text Preprocessing, TF-IDF, SQL Analysis, Multi-Model Comparison |
+| **Dataset** | IMDB — 49,582 Movie Reviews |
+| **Best Accuracy** | 89.00% (Logistic Regression) |
+
+**What I did:**
+- 🔹 Performed Data Cleaning — removed HTML tags, duplicates, stopwords
+- 🔹 Stored data in SQLite database and ran SQL queries for insights
+- 🔹 Built Word Cloud visualizations for positive and negative reviews
+- 🔹 Applied TF-IDF vectorization with 5,000 features
+- 🔹 Compared 3 ML models — Logistic Regression, Naive Bayes, Random Forest
+- 🔹 Deployed Streamlit app with movie name + review input and confidence score
+
+**Key Insights Uncovered:**
+- 📌 Logistic Regression achieved 89% accuracy — best among all models
+- 📌 Positive reviews are longer on average (1,303 chars vs 1,270)
+- 📌 Most common words: movie, film, great, good, story, love
+- 📌 Balanced dataset — 24,884 positive vs 24,698 negative reviews
+
+[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://your-app-link-here.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/viraj01-coder/movie-sentiment-analyzer)
+
+---
 
 ### 🏏 IPL Performance Analytics (2008-2024)
 > Advanced Data Science & ML app analyzing IPL historical data and predicting player performance using Random Forest
@@ -84,7 +116,7 @@
 - 📌 Polynomial features improved R² from ~0.68 to 0.756 vs simple Ridge Regression
 - 📌 Petrol cars dominate the dataset (12,179) vs Diesel (5,762)
 
-[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://used-car-price-predictor-6g2wersaihrvzufyy7xjne.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://your-app-link-here.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/viraj01-coder/used-car-price-predictor)
 
 ---
