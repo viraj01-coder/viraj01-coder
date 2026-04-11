@@ -61,7 +61,7 @@
 - 📌 Most common words: movie, film, great, good, story, love
 - 📌 Balanced dataset — 24,884 positive vs 24,698 negative reviews
 
-[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://your-app-link-here.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://movie-sentiment-analyzer-rrxkbqimw8njc2eqbjjlxu.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/viraj01-coder/movie-sentiment-analyzer)
 
 ---
