@@ -1,13 +1,13 @@
 # Hi, I'm Viraj Mavani! 👋
-🎓 BCA Graduate | 📊 Aspiring Data Scientist | 🤖 ML Enthusiast
+🎓 BCA Graduate | 📊 Aspiring Data Analyst | 🤖 ML Enthusiast
 
 ---
 
 ## About Me
 
-- 🔭 Currently building Machine Learning projects
-- 🌱 Learning Data Science & Python
-- 💡 Passionate about turning data into insights
+- 🔭 Currently building Data Science & Machine Learning projects
+- 🌱 Skilled in Python, SQL, NLP and ML
+- 💡 Passionate about turning data into actionable insights
 - 📍 India
 
 ---
@@ -18,18 +18,20 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-052FAD?style=flat&logo=ibm&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=flat&logo=scipy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat&logo=scikit-learn&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-052FAD?style=flat&logo=ibm&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat&logo=python&logoColor=white)
-![TF--IDF](https://img.shields.io/badge/TF--IDF-8B0000?style=flat&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=flat&logo=scipy&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -40,7 +42,7 @@
 
 | | |
 |---|---|
-| **Tech Stack** | Python, Pandas, NLTK, scikit-learn, SQLite, Matplotlib, Streamlit |
+| **Tech Stack** | Python · Pandas · Matplotlib · Seaborn · NLTK · Scikit-Learn · SQLite · Streamlit |
 | **Concepts** | NLP, Text Preprocessing, TF-IDF, SQL Analysis, Multi-Model Comparison |
 | **Dataset** | IMDB — 49,582 Movie Reviews |
 | **Best Accuracy** | 89.00% (Logistic Regression) |
@@ -69,10 +71,10 @@
 
 | | |
 |---|---|
-| **Tech Stack** | Python, Pandas, NumPy, Plotly, SQL (SQLite), scikit-learn, Streamlit |
+| **Tech Stack** | Python · Pandas · NumPy · Matplotlib · Seaborn · SQLite · Scikit-Learn · Plotly · Streamlit |
 | **Concepts** | EDA, SQL Querying, Feature Engineering, Random Forest Classification, Predictive Modeling |
 | **Dataset** | Kaggle — IPL Complete Dataset 2008-2024 |
-| **Model** | RandomForestClassifier (200 estimators) |
+| **Model Accuracy** | 69.66% (Random Forest Classifier) |
 
 **What I did:**
 - 🔹 Built SQL (SQLite) database to handle and query large-scale IPL match data
@@ -81,7 +83,7 @@
 - 🔹 Built interactive player dashboard with career stats, performance metrics and dynamic charts
 - 🔹 Deployed live Streamlit app with complete 2008-2024 IPL player database
 
-**Key Features:**
+**Key Insights Uncovered:**
 - 📌 Predicts 30+ run probability with percentage-based confidence score
 - 📌 Fallback logic — uses career average when opponent-specific data unavailable
 - 📌 Top 10 Run Scorers, Avg Runs vs Each Team, and 30+ Scores Count charts
@@ -97,7 +99,7 @@
 
 | | |
 |---|---|
-| **Tech Stack** | Python, Pandas, NumPy, Plotly Express, scikit-learn, Streamlit |
+| **Tech Stack** | Python · Pandas · Matplotlib · Seaborn · Scikit-Learn · Plotly · Streamlit |
 | **Concepts** | EDA, Data Cleaning, Feature Engineering, Ridge Regression, Polynomial Features, GridSearchCV |
 | **Dataset** | ~18,000 cars (UK Used Car Market) |
 | **Model R²** | 0.756 (75.6% accuracy) |
@@ -116,7 +118,7 @@
 - 📌 Polynomial features improved R² from ~0.68 to 0.756 vs simple Ridge Regression
 - 📌 Petrol cars dominate the dataset (12,179) vs Diesel (5,762)
 
-[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://your-app-link-here.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://used-car-price-predictor-6g2wersaihrvzufyy7xjne.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/viraj01-coder/used-car-price-predictor)
 
 ---
@@ -126,7 +128,7 @@
 
 | | |
 |---|---|
-| **Tech Stack** | Python, Pandas, NumPy, Plotly Express, pandasql, Streamlit |
+| **Tech Stack** | Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Pandasql · Streamlit |
 | **Concepts** | EDA, Data Cleaning, Feature Engineering, Data Visualization, Business Intelligence |
 | **Dataset** | 9,994 rows × 21 columns |
 | **Period** | 2014 – 2017 |
