@@ -32,6 +32,7 @@
 ![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat&logo=python&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=flat&logo=scipy&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
 
@@ -148,6 +149,29 @@
 
 [![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://superstoredataanalytics-daar8sszaksqvhwh25jiuk.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/viraj01-coder/superstore_data_analytics)
+
+
+### 📊 Retail Business Performance Insights (Tableau)
+> Data visualization project analyzing retail sales trends and profitability
+
+| | |
+|---|---|
+| **Tech Stack** | Tableau · Data Analysis |
+| **Concepts** | Data Visualization, Business Intelligence, Sales Trends, Profitability Analysis |
+| **Dataset** | Superstore Dataset |
+
+**What I did:**
+- 🔹 Performed data cleaning and transformation for visualization readiness
+- 🔹 Created interactive dashboards to track key performance indicators (KPIs)
+- 🔹 Analyzed sales and profit margins across different product categories
+- 🔹 Applied visual design principles for clear and impactful data storytelling
+
+**Key Insights Uncovered:**
+- 📌 Identified growth trends across product categories
+- 📌 Highlighted profitable and non-profitable business segments
+- 📌 Visualized geographical sales performance
+
+[![GitHub Repo]()
 
 ---
 
