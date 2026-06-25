@@ -171,7 +171,7 @@
 - 📌 Highlighted profitable and non-profitable business segments
 - 📌 Visualized geographical sales performance
 
-[![GitHub Repo]()
+[![GitHub Repo](https://github.com/viraj01-coder/Retail-Sales-Analysis-Tableau)
 
 ---
 
